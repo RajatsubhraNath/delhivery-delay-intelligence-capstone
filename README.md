@@ -1,5 +1,13 @@
 # Delhivery Last-Mile Delay Intelligence
 
+> **Declaration of AI assistance**
+>
+> This repository was built with substantial help from an AI assistant (Accio). The assistant generated the pipeline scripts, `src/shipment_prep.py` and the first draft of this README from the capstone brief. I set the scope, supplied the brief, checked every output against the brief's pass bands, and then worked through the code until I could explain each design decision and reproduce the numbers myself. The project was assembled locally and pushed as a single commit, which is why the history shows one bulk commit rather than a development trail.
+>
+> I am declaring this because the brief asks that the code and the README be written by me, and submitting AI-generated work as my own would misrepresent it. No part of this repository was copied from another student or from another repository.
+>
+> — Rajatsubhra Nath, 6 November 2026
+
 A single connected pipeline that answers three operational questions on a synthetic
 last-mile shipment export:
 
