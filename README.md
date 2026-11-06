@@ -2,9 +2,9 @@
 
 > **Disclaimer**
 >
-> I am declaring this because this repository was built with substantial help from an AI assistant. The assistant generated the pipeline scripts, `src/shipment_prep.py` and the README draft is from the capstone project brief. I set the scope, supplied the brief, checked every output against the brief's pass bands, and then worked through the code until I could explain each design decision and reproduce the numbers myself. I assembled the project locally and pushed it as a single commit, which is why the history shows one bulk commit rather than a development trail.
+> I am declaring this because this repository was built with substantial help from an AI assistant. The assistant generated the pipeline scripts, `src/shipment_prep.py` and the README draft is from the capstone project brief. I set the scope, supplied the brief, checked every output against the brief's pass bands, and then worked through the code until I could explain each design decision and reproduce the numbers myself. I assembled the project locally and pushed it as a single commit, so the history shows one bulk commit rather than a development trail.
 >
-A single connected pipeline that answers three operational questions on a synthetic
+> A single connected pipeline that answers three operational questions on a synthetic
 last-mile shipment export:
 
 1. **How long will a parcel really take?** — a delivery-hours regressor (Part B).
